@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "My DataBase",
+            "database": "My DataBase.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Challenge DB",
+            "group": "Challenge DB",
+            "database": "bais_sqlite_lab.db"
+        }
+    ]
+}
